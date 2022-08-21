@@ -1,2 +1,2 @@
 # ExercisesTracker-
-React Express MangoDB  NodeJS Bootstrap
+React Bootstrap NodeJS Express MangoDB  
